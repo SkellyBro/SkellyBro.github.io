@@ -1,0 +1,9 @@
+.starclick{
+    transition: all 0.2s;
+  }
+
+  .roll{
+    border-radius: 50%;
+    transform: rotate(1turn);
+    color: #00FFCC;  
+  }
